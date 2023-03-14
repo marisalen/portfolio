@@ -10,7 +10,7 @@ const HeroBanner = () => {
           <button className={styles.rightButton}>Get in Touch</button>
         </div>
         <div className={styles.heroImage}>
-          <img src="/marisaportrait.jpg" alt="Hero Image" />
+          <img src="/marisaavatar.png" alt="Hero Image" />
         </div>
       </div>
     );
